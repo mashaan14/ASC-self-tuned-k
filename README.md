@@ -1,6 +1,6 @@
 # ASC-self-tuned-k
 
-[![DOI](http://img.shields.io/badge/doi-10.1016/j.patrec.2019.02.006.svg)](https://doi.org/10.1016/j.patrec.2019.02.006)
+[![DOI](http://img.shields.io/badge/doi-10.1016/j.patrec.2019.02.006-36648B.svg)](https://doi.org/10.1016/j.patrec.2019.02.006)
 [![Paper](http://img.shields.io/badge/arXiv-2302.11297-b31b1b.svg)](https://arxiv.org/abs/2302.11297)
 [![Papers with Code](http://img.shields.io/badge/PaperswithCode-2302.11297-21cbce.svg)](https://paperswithcode.com/paper/approximate-spectral-clustering-with)
 
