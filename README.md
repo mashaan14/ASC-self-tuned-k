@@ -30,7 +30,5 @@ Run BATCH_Points.m which will execute the following:
 3.	POST_Points.m to compute the accuracy of clustering
 
 ---
-Provided by Mashaan Alshammari<br/>
-mashaan14 at gmail dot com<br/>
-mashaan dot awad at outlook dot com<br/>
+written by [Mashaan Alshammari](https://mashaan14.github.io/mashaan/)<br/>
 July 03, 2019.
