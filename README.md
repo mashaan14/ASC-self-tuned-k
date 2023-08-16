@@ -29,6 +29,3 @@ Run BATCH_Points.m which will execute the following:
 	- CostDBIOverLambdaPCA.m a uses the method proposed by our paper to estimate k followed by PCA variance filtering
 3.	POST_Points.m to compute the accuracy of clustering
 
----
-written by [Mashaan Alshammari](https://mashaan14.github.io/mashaan/)<br/>
-July 03, 2019.
