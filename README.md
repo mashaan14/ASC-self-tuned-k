@@ -20,12 +20,12 @@ This is an implementation for the following paper:
 
 ## How to use:
 
-Run BATCH_Points.m which will execute the following:
-1.	PRE_Points.m to load toy data, csv files are the groundtruth labels.
-2.	RUN_Points.m to perform spectral clustering with 4 functions to estimate k:
-	- CostEigenGap.m a conventional method to estimate k
-	- CostZelnik.m uses the method proposed by (Zelnik-manor 2005) to estimate k
-	- CostDBIOverLambda.m uses the method proposed by our paper to estimate k
-	- CostDBIOverLambdaPCA.m a uses the method proposed by our paper to estimate k followed by PCA variance filtering
-3.	POST_Points.m to compute the accuracy of clustering
+Run `BATCH_Points.m` which will execute the following:
+1.	`PRE_Points.m` to load toy data, csv files are the groundtruth labels.
+2.	`RUN_Points.m` to perform spectral clustering with 4 functions to estimate k:
+	- `CostEigenGap.m` a conventional method to estimate k
+	- `CostZelnik.m` uses the method proposed by (Zelnik-manor 2005) to estimate k
+	- `CostDBIOverLambda.m` uses the method proposed by our paper to estimate k
+	- `CostDBIOverLambdaPCA.m` a uses the method proposed by our paper to estimate k followed by PCA variance filtering
+3.	`POST_Points.m` to compute the accuracy of clustering
 
