@@ -8,13 +8,13 @@
 This is an implementation for the following paper:
 ```bibtex
 @article{ALSHAMMARI201931,
-	title = {Approximate spectral clustering with eigenvector selection and self-tuned k},
-	doi = {https://doi.org/10.1016/j.patrec.2019.02.006},
+	title =   {Approximate spectral clustering with eigenvector selection and self-tuned k},
+	doi =     {https://doi.org/10.1016/j.patrec.2019.02.006},
 	journal = {Pattern Recognition Letters},
-	volume = {122},
-	pages = {31-37},
-	year = {2019},	
-	author = {Mashaan Alshammari and Masahiro Takatsuka}
+	volume =  {122},
+	pages =   {31-37},
+	year =    {2019},	
+	author =  {Mashaan Alshammari and Masahiro Takatsuka}
 }
 ```
 
